@@ -1,0 +1,5 @@
+{
+  "_nota": "Plantilla sin cámaras. Copiar a zonas.local.json y configurar allí las cámaras y sus zonas restringidas.",
+  "zonas_restringidas": {},
+  "camaras": []
+}

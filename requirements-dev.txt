@@ -1,0 +1,4 @@
+# Para ejecutar las pruebas sin necesidad del modelo ni de la GPU
+-r requirements.txt
+pytest==8.*
+pytest-cov==5.*

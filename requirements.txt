@@ -1,0 +1,6 @@
+# Microservicio de IA — dependencias de ejecucion
+ultralytics==8.3.* ; python_version >= "3.9"
+opencv-python==4.10.*
+requests==2.32.*
+python-dotenv==1.0.*
+numpy>=1.26,<3
